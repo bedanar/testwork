@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Иванов Сергей",
+        "company": "Delphine",
+        "image": "https://i.pravatar.cc/400"
+    },
+    {
+        "id": 2,
+        "name": "Петров Дмитрий",
+        "company": "Moriah.Stanton",
+        "image": "https://i.pravatar.cc/400"
+    },
+    {
+        "id": 3,
+        "name": "Сидоров Иван",
+        "company": "Delphine",
+        "image": "https://i.pravatar.cc/400"
+    },
+    {
+        "id": 4,
+        "name": "Аксенов Егор",
+        "company": "Delphine",
+        "image": "https://i.pravatar.cc/400"
+    }
+]
